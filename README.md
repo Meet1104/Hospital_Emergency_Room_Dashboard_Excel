@@ -46,7 +46,3 @@ This dashboard helps in:
 ## Main Dashboard
 
 <img width="1595" height="618" alt="WhatsApp Image 2026-05-09 at 23 41 41" src="https://github.com/user-attachments/assets/32742398-80f2-44cf-b29e-3218788b7444" />
-
-
-```md
-![Dashboard Preview](images/dashboard.png)
